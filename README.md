@@ -10,7 +10,7 @@ Dependency For Other Plugins
 
 Preferred Colorscheme
 
-    bluz71/vim-nightfly-guicolors
+    catppuccin/nvim
 
 Navigating Between Neovim Windows and Tmux
 
