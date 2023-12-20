@@ -1,4 +1,5 @@
 Plugins
+
 Plugin Manager
 
     folke/lazy.nvim - Amazing plugin manager
