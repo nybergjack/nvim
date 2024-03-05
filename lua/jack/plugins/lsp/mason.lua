@@ -32,6 +32,7 @@ return {
         "cssls",
         "tailwindcss",
         "svelte",
+        "rust_analyzer",
         "lua_ls",
         "graphql",
         "emmet_ls",

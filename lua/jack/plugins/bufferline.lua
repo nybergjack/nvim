@@ -5,7 +5,12 @@ return {
   opts = {
     options = {
       mode = "tabs",
-      separator_style = "slant",
+      separator_style = "slope",
+      hover = {
+        enabled = true,
+        delay = 200,
+        reveal = {'close'}
+      },
     },
   },
 }
